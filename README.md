@@ -1,4 +1,4 @@
-#OS-Project1
+**OS-Project1**
 
 **A project about interprocess communications using semaphores and shared memory**
 
