@@ -1,5 +1,7 @@
 # OS-Project1
 
+**A project about interprocess communications using semaphores and shared memory**
+
 **Εντολές make/εκτέλεσης:**
 
 Το πρόγραμμα γίνεται make μ’ένα απλό make. Η make clean διαγράφει όλα τα .ο αρχεία. Η εντολή για να τρέξει το πρόγραμμα είναι η : ./requester βαθμός_κατάτμισης αριθμός_παιδιών αριθμός_αιτημάτων stream αρχείου. Με αυτή τη σειρά αυστηρά! 
