@@ -1,6 +1,6 @@
 # OS-Project1
 
-## **A project about interprocess communications using semaphores and shared memory**
+## **Ένα project για την επικοινωνία μεταξύ διεργασιών χρησιμοποιώντας σεμαφόρους και διαμοιραζόμενη μνήμη**
 
 **Εντολές make/εκτέλεσης:**
 
